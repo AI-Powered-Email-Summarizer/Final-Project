@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+smtplib
+email
+beautifulsoup4
+dateparser
